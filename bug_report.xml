@@ -1,0 +1,11 @@
+<bug.report>
+  <id></id>
+  <title></title>
+  <description>При нажатии на кнопку 'Sign UP' приложение не реагирует</description>
+  <precondition>Воспроизводится в браузере Google Chrome</precondition>
+  <steps>1. Запустить веб-приложение в Google Chrome; 2. Перейти на вкладку 'Sign Up'; 3. Заполнить обязательные поля; 4. нажать на кнопку 'Sign Up'</steps>
+  <actual.res>Приложение не реагирует. Регистрация не проходит</actual.res>
+  <Expected.res>Приложение регистрирует нового пользователя</Expected.res>
+  <Priority>Высокий</Priority>
+  <Severity>Критический</Severity>
+                         </bug.report>
